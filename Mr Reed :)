@@ -1,1 +1,3 @@
-Mr Reed did this bit!
+#Mr Reed did this bit!
+
+print("Hello, world!")
