@@ -48,6 +48,6 @@ while not quit:
     for i, sol in enumerate(solutions):
         print("Solution {} = {}".format(i + 1, sol))
 
-    if input("Do you want to quit? (Y/N): ").upper() == "Y":
+    if input("Do you want to quit? (Y/n): ").upper() == "Y":
         quit = True
     clear_screen()
