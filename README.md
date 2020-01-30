@@ -1,1 +1,1 @@
-# Group
+# Python Project Computer Science
