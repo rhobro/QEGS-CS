@@ -1,1 +1,1 @@
-# Python Project Computer Science
+# Text-based game
